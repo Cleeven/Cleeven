@@ -15,6 +15,6 @@ I'm a passionate developer who loves exploring new technologies and improving my
 - **Databases**: MySQL, MongoDB
 
 ## Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cleeven-médé-6a9536231/) or check out my work on [email](cleevenmede@hotmail.com.).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cleeven-médé-6a9536231/) or reach out via email at [email](cleevenmede@hotmail.com.).
 
 Thank you for visiting my profile! 🌟
