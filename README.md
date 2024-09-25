@@ -10,8 +10,8 @@ I'm a passionate developer who loves exploring new technologies and improving my
 - 🚀 Exploring new technologies
 
 ## Skills
-- **Languages**: JavaScript, PHP, HTML, CSS, JAVA, PYTHON, C++
-- **Frameworks**: React, Node.js, Express
+- **Languages**: JavaScript, PHP, HTML, CSS, Java, Python, C++, C#
+- **Frameworks**: React, Node.js, Express.js
 - **Databases**: MySQL, MongoDB
 
 ## Get in Touch
