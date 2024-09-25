@@ -1,11 +1,20 @@
-👋 Hi, I’m @Cleeven
-👀 I’m interested in exploring new technologies and enhancing my programming skills.
-🌱 I’m currently learning more about web development.
-💞️ I’m looking to collaborate on open-source projects and innovative tech initiatives.
-📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at cleevenmede@hotmail.com.
-😄 Pronouns: He/Him
+# Hi there! I'm Cleeven 👋
 
-<!---
-Cleeven/Cleeven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a passionate developer who loves exploring new technologies and improving my programming skills. Currently, I am focused on expanding my knowledge in web development and mobile development.
+
+## Interests
+- 🌐 Web Development
+- 📱 Mobile Development
+- 💻 Programming Languages and Frameworks
+- 🚀 Exploring new technologies
+
+## Skills
+- **Languages**: JavaScript, PHP, HTML, CSS, JAVA, PYTHON, C++
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MySQL, MongoDB
+
+## Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cleeven-médé-6a9536231/) or check out my work on [email](cleevenmede@hotmail.com.).
+
+Thank you for visiting my profile! 🌟
