@@ -13,7 +13,7 @@ I'm a passionate developer who loves exploring new technologies and improving my
 
 ## Skills
 - **Languages**: JavaScript, PHP, HTML, CSS, Java, Python, C++, C#
-- **Frameworks**: React, Node.js, Express.js
+- **Frameworks**: React, Node.js, Express.js, Laravel
 - **Databases**: MySQL, MongoDB
 
 ## Get in Touch
