@@ -9,7 +9,7 @@ I'm a passionate developer who loves exploring new technologies and improving my
 - 💻 Programming Languages and Frameworks
 - 🚀 Exploring new technologies
 - 🎮 Gaming
-- 🏃‍♂️ Staying active and fit
+- 🏃‍♂️ Sport
 
 ## Skills
 - **Languages**: JavaScript, PHP, HTML, CSS, Java, Python, C++, C#
