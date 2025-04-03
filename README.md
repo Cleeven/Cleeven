@@ -19,7 +19,7 @@ Currently, I’m focused on expanding my expertise in **web development** and **
 ## 🛠️ Skills  
 
 ### 🔹 Languages  
-- JavaScript, PHP, HTML, CSS, Java, Python, C++, C#  
+- JavaScript, TypeScript, PHP, HTML, CSS, Java, Python, C++, C#  
 
 ### 🔹 Frontend  
 - React, Next.js, Tailwind CSS  
